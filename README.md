@@ -18,7 +18,7 @@ Este repositório é um teste para realização de um deploy para o serviço do 
 
 1. Um novo projeto de teste.
 2. Ative as APIs Cloud Functions, Cloud Run, Cloud Build, Artifact Registry, and Cloud Storage.
-    > [Clique aqui]("https://console.cloud.google.com/flows/enableapi?apiid=cloudbuild.googleapis.com%2Crun.googleapis.com%2Cartifactregistry.googleapis.com%2Ccloudfunctions.googleapis.com%2Cstorage.googleapis.com&%3Bredirect=https%3A%2F%2Fcloud.google.com%2Ffunctions%2Fdocs%2Ftutorials%2Fterraform&hl=pt-br&_ga=2.145621876.1144589206.1708107338-54807114.1692367092&_gac=1.148005445.1706744182.CjwKCAiA_OetBhAtEiwAPTeQZ1Ca3Vvw9xohy0CRv8OFW5-TFXqPcPyw_wyU6ulbFSRjbu9F87fiehoCky4QAvD_BwE")
+    [Clique aqui]("https://console.cloud.google.com/flows/enableapi?apiid=cloudbuild.googleapis.com%2Crun.googleapis.com%2Cartifactregistry.googleapis.com%2Ccloudfunctions.googleapis.com%2Cstorage.googleapis.com&%3Bredirect=https%3A%2F%2Fcloud.google.com%2Ffunctions%2Fdocs%2Ftutorials%2Fterraform&hl=pt-br&_ga=2.145621876.1144589206.1708107338-54807114.1692367092&_gac=1.148005445.1706744182.CjwKCAiA_OetBhAtEiwAPTeQZ1Ca3Vvw9xohy0CRv8OFW5-TFXqPcPyw_wyU6ulbFSRjbu9F87fiehoCky4QAvD_BwE")
 3. Uma conta de serviço do IAM com chave json e liberação de Editor para manipular storage e cloud function
 
 ## No visual code...
