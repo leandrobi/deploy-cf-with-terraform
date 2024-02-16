@@ -22,7 +22,7 @@ Este repositório é um teste para realização de um deploy para o serviço do 
 3. Uma conta de serviço do IAM com chave json e liberação de Editor para manipular storage e cloud function
 
 ## No visual code...
-1. Clone este repositório
+1. Clone este repositório e crie uma pasta chamada .keys na raiz para deixar o arquivo json da chave gcp
 2. Na raiz do projeto, abra o vscode e aperte ctrl + ' para abrir o terminal
 3. Edite as linhas abaixo do arquivo main.tf
 
